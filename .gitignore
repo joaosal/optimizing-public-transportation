@@ -1,0 +1,10 @@
+consumers/stations-stream-data/
+consumers/stations-stream-v1-data/
+consumers/stations-stream-v2-data/
+consumers/__pycache__/
+__init__.py
+consumers/__init__.py
+producers/__pycache__/
+producers/venv
+consumers/venv
+
